@@ -1,5 +1,8 @@
 _repo: Theory-of-the-Earth--13-With-Proofs-and-Illustrations-Volume-1--of-4-_12861
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hutton, James
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4675
     wikipedia: http://en.wikipedia.org/wiki/James_Hutton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12861#Theory-of-the-Earth--13-With-Proofs-and-Illustrations-Volume-1--of-4-
 gutenberg_issued: '2004-07-09'
 gutenberg_type: Text
 identifiers:
